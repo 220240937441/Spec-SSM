@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.15.3
+torch==2.1.1
+mamba-ssm==2.2.2
+causal-conv1d==1.4.0

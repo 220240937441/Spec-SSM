@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+outputs/
+datasets/*
+!datasets/README.md
+*.whl
+*.ckpt
+!weights/checkpoints/*.ckpt
+.venv/
+.DS_Store
